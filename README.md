@@ -11,4 +11,4 @@ criteria were applied to analyse the model. The findings suggest that there coul
 heart disease with higher accuracy for female than for male which suggest that the model performs better for female which could 
 lead to incorrect predictions of heart disease mostly for male patients and by inference, the model exhibits some bias towards 
 male individuals in terms of demographic parity. The implications of our study highlight the importance of ensuring that machine 
-learning algorithms in healthcare should be fair and equitable for all patients across all protected.
+learning algorithms in healthcare should be fair and equitable for all patients across all protected character.
